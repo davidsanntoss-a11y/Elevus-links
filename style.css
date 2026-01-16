@@ -52,7 +52,7 @@ h1 {
 
 .link-btn:hover {
   transform: scale(1.04);
-  background: linear-gradient(145deg, #FFD700, #FFC300);
+  background: linear-gradient(145deg, #e6e4d7a6, #f1f0ed);
 }
 
 footer {
